@@ -82,7 +82,7 @@ I focus on **practical projects**, real‑world problem solving, and continuous 
 ## 📫 Contact & Links
 
 * GitHub: [https://github.com/engrrabdulkhaliq](https://github.com/engrrabdulkhaliq)
-* Portfolio: *(Coming Soon)*
+* Portfolio: *https://myportfolio-data-scientist-eeya.vercel.app/*
 
 ---
 
