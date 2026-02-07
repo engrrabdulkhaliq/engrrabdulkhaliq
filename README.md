@@ -4,8 +4,8 @@
 
 📍 Pakistan | 🌍 Open to Remote & International Roles (UAE / Global)
 
-GitHub: [https://github.com/engrrabdulkhaliq](https://github.com/engrrabdulkhaliq)
-Portfolio: [https://myportfolio-data-scientist-eeya.vercel.app/](https://myportfolio-data-scientist-eeya.vercel.app/)
+GitHub: [https://github.com/engrrabdulkhaliq](https://github.com/engrrabdulkhaliq001/)
+Portfolio: [https://myportfolio-data-scientist-eeya.vercel.app/](https://myportfolio-abdulkhaliq.vercel.app/)
 
 ---
 
