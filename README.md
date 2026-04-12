@@ -1,5 +1,3 @@
-<!-- GitHub Profile README — Abdul Khaliq -->
-
 <h1 align="center">Hi, I'm Abdul Khaliq 👋</h1>
 
 <p align="center">
