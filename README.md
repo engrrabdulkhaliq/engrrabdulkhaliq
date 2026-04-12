@@ -56,8 +56,8 @@ Tools           │ Git · GitHub · .env · Jupyter
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engrrabdulkhaliq001&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=7F77DD" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrrabdulkhaliq001&layout=compact&hide_border=true&title_color=1D9E75&theme=default" height="160"/>
+  <img src=""https://github-readme-stats.vercel.app/api?username=engrrabdulkhaliq001&show_icons=true&hide_border=true&theme=transparent/>
+  <img src="https://github-readme-stats.vercel.app/api?username=engrrabdulkhaliq001&show_icons=true&hide_border=true&theme=transparent"/>
 </p>
 
 <p align="center">
