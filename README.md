@@ -1,133 +1,76 @@
-# Abdul Khaliq
+<!-- GitHub Profile README — Abdul Khaliq -->
 
-**Junior Data Scientist / Data Science Engineer | Frontend Developer**
+<h1 align="center">Hi, I'm Abdul Khaliq 👋</h1>
 
-📍 Pakistan | 🌍 Open to Remote & International Roles (UAE / Global)
+<p align="center">
+  <b>Junior Data Scientist · AI Engineer · Frontend Developer</b><br/>
+  📍 Karachi, Pakistan &nbsp;|&nbsp; 🌍 Open to Remote · UAE · Global
+</p>
 
-GitHub: [https://github.com/engrrabdulkhaliq](https://github.com/engrrabdulkhaliq001/)
-Portfolio: [https://myportfolio-data-scientist-eeya.vercel.app/](https://myportfolio-abdulkhaliq.vercel.app/)
-
----
-
-## 👋 About Me
-
-I am **Abdul Khaliq**, a Junior Data Scientist / Data Science Engineer with strong skills in **Frontend Development**. I enjoy building **end-to-end, data-driven applications** — from data analysis and machine learning models to clean, modern, and user-friendly web interfaces.
-
-I focus on **practical projects**, **real-world problem solving**, and **continuous learning**. My goal is to grow as a professional **Data Scientist & AI Engineer** while delivering real value through technology.
-
----
-
-## 🧠 Skills & Expertise
-
-### 📊 Data Science & Machine Learning
-
-* Python (NumPy, Pandas, Matplotlib, Seaborn)
-* Scikit-learn (Regression, Classification, Clustering)
-* Feature Engineering & Data Cleaning
-* Model Evaluation (RMSE, Accuracy, Precision, Recall)
-* SHAP & Model Explainability (basic)
-* Time Series Analysis (basic understanding)
-
-### 🤖 AI & Applied Machine Learning
-
-* Predictive Modeling
-* Resume Screening & Classification Systems
-* Student Performance Prediction
-* NLP-based Applications
-* API-based AI Systems
-
-### 🌐 Frontend Development
-
-* HTML5, CSS3, JavaScript
-* Responsive Web Design
-* Modern UI/UX Principles
-* Frontend Integration with ML Models
-
-### 🛠 Backend & Tools
-
-* Flask (ML Web Applications)
-* REST APIs
-* Git & GitHub
-* Docker (basic)
-* Environment Management (.env)
+<p align="center">
+  <a href="https://myportfolio-abdulkhaliq.vercel.app/">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/engrrabdulkhaliq001">💻 GitHub</a> &nbsp;·&nbsp;
+  <a href="#">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.upwork.com/freelancers/~0153a5914d4d5e643e">🔖 Upwork</a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🧑‍💻 About Me
 
-### 📌 Resume Screening AI
+I'm a **Data Scientist & AI Engineer** who builds end-to-end, data-driven applications —  
+from ML models and RAG pipelines to clean, modern web interfaces.
 
-**AI system for resume analysis & hiring prediction**
-
-* Automated resume analysis using NLP techniques
-* Skill matching between candidate resumes and job requirements
-* Resume classification using machine learning models
-* Bias detection to support fair hiring decisions
-
-**Technologies:** Python, NLP, Scikit-learn, Flask
+- 🔭 Currently working on: scalable AI web apps & LLM pipelines  
+- 🌱 Learning: advanced ML math, LangGraph, Vision-Language Models  
+- 💬 Ask me about: Python, LangChain, RAG, FastAPI, XGBoost  
+- ⚡ Fun fact: I bridge **Data Science + Frontend** for a complete product mindset  
 
 ---
 
-### 📌 Student Performance Predictor
+## 🛠 Tech Stack
 
-**AI system that predicts student performance and suggests interventions**
-
-* Classification models to predict academic outcomes
-* Time-series trends for performance tracking
-* SHAP-based explainability for model insights
-* Data-driven intervention recommendations
-
-**Technologies:** Python, Scikit-learn, SHAP, Flask
-
----
-
-### 📌 AI Teaching Assistant
-
-**RAG-based AI for video Q&A with timestamp-specific answers**
-
-* Context-aware retrieval using Retrieval-Augmented Generation (RAG)
-* Precise timestamp-based answers from video content
-* Multi-language question answering support
-* Interactive chat-based user interface
-
-**Technologies:** Python, NLP, RAG, Vector Search, Web UI
+```
+Data Science    │ Python · NumPy · Pandas · Scikit-learn · XGBoost · SHAP
+AI / LLMs       │ LangChain · RAG · FAISS · OpenAI · Groq · Embeddings
+Backend         │ FastAPI · Flask · REST APIs · Docker · Railway
+Frontend        │ HTML5 · CSS3 · JavaScript · Streamlit · Responsive UI
+Tools           │ Git · GitHub · .env · Jupyter
+```
 
 ---
 
-### 📌 Knowledge Base Assistant
+## 🚀 Featured Projects
 
-**Document Q&A system for PDFs, Word & PowerPoint files**
+| Project | Description | Stack |
+|---|---|---|
+| 🎓 [RAG Teaching Assistant](https://github.com/engrrabdulkhaliq001) | Context-aware Q&A over videos with timestamp answers | LangChain · FAISS · Groq · FastAPI · Docker |
+| 📄 [Resume Screening AI](https://github.com/engrrabdulkhaliq001) | NLP resume analysis with skill matching & bias detection | OpenAI Embeddings · FAISS · FastAPI · Streamlit |
+| 📊 [Student Performance Predictor](https://github.com/engrrabdulkhaliq001) | Predicts academic outcomes with SHAP explainability | XGBoost · Scikit-learn · SHAP · Streamlit |
+| 📑 [AI PDF Summarizer](https://github.com/engrrabdulkhaliq001) | Map-Reduce summarization for multi-document PDFs | LangChain · OpenAI GPT · Streamlit |
 
-* Supports multiple document formats (PDF, DOCX, PPTX)
-* Context-aware question answering
-* Source citations for reliable answers
-* Team-ready system suitable for organizations
-
-**Technologies:** Python, NLP, Embeddings, Vector Databases, Flask
-
----
-
-## 🎯 What I’m Working On
-
-* Improving applied statistics & machine learning mathematics
-* Building Fiverr-ready AI & data science projects
-* Deploying scalable ML web applications
-* Enhancing frontend design for data products
+> All projects have **live deployments** and public GitHub repos.
 
 ---
 
-## 📈 Career Goals
+## 📈 GitHub Stats
 
-* Become a Professional Data Scientist / AI Engineer
-* Work on real-world AI & analytics problems
-* Secure remote and international opportunities (UAE / Global)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engrrabdulkhaliq001&show_icons=true&theme=default&hide_border=true&title_color=1D9E75&icon_color=7F77DD" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrrabdulkhaliq001&layout=compact&hide_border=true&title_color=1D9E75&theme=default" height="160"/>
+</p>
 
 ---
 
-## ⭐ Highlights
+## 🎯 Currently Working On
 
-* Data Science + Frontend = **Complete Product Mindset**
-* Strong focus on **real-world applications**
-* Continuous learner & problem solver
+- 🧠 Improving ML mathematics & applied statistics  
+- 🤖 Building LangGraph & Vision-Language Model projects  
+- 🚀 Deploying scalable AI web applications  
+- 🎨 Enhancing frontend design for data products  
 
-> *“Turning data into decisions and ideas into products.”*
+---
+
+<p align="center">
+  <i>"Turning data into decisions and ideas into products."</i>
+</p>
