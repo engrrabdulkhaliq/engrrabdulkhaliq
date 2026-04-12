@@ -56,15 +56,18 @@ Tools           │ Git · GitHub · .env · Jupyter
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-YOUR-NAME.vercel.app/api?username=engrrabdulkhaliq001&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=7F77DD" height="160"/>
-
-<img src="https://github-readme-stats-YOUR-NAME.vercel.app/api/top-langs/?username=engrrabdulkhaliq001&layout=compact&hide_border=true&title_color=1D9E75" height="160"/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=engrrabdulkhaliq001&theme=default&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75" height="160"/>
+  <img src="https://github-readme-stats-vert-zeta.vercel.app/api?username=engrrabdulkhaliq001&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=7F77DD&bg_color=00000000" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-vert-zeta.vercel.app/api/top-langs/?username=engrrabdulkhaliq001&layout=compact&hide_border=true&title_color=1D9E75&bg_color=00000000" height="170"/>
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=engrrabdulkhaliq001&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75&background=00000000" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-vert-zeta.vercel.app/api/wakatime?username=engrrabdulkhaliq001&hide_border=true&title_color=1D9E75&bg_color=00000000" height="170"/>
+</p>
 
 ## 🎯 Currently Working On
 
