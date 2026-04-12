@@ -1,3 +1,5 @@
+<!-- GitHub Profile README — Abdul Khaliq -->
+
 <h1 align="center">Hi, I'm Abdul Khaliq 👋</h1>
 
 <p align="center">
@@ -16,13 +18,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Data Scientist & AI Engineer** who builds end-to-end, data-driven applications —  
+I'm a **Data Scientist & AI Engineer** who builds end-to-end, data-driven applications —
 from ML models and RAG pipelines to clean, modern web interfaces.
 
-- 🔭 Currently working on: scalable AI web apps & LLM pipelines  
-- 🌱 Learning: advanced ML math, LangGraph, Vision-Language Models  
-- 💬 Ask me about: Python, LangChain, RAG, FastAPI, XGBoost  
-- ⚡ Fun fact: I bridge **Data Science + Frontend** for a complete product mindset  
+- 🔭 Currently working on: scalable AI web apps & LLM pipelines
+- 🌱 Learning: advanced ML math, LangGraph, Vision-Language Models
+- 💬 Ask me about: Python, LangChain, RAG, FastAPI, XGBoost
+- ⚡ Fun fact: I bridge **Data Science + Frontend** for a complete product mindset
 
 ---
 
@@ -42,10 +44,10 @@ Tools           │ Git · GitHub · .env · Jupyter
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎓 [RAG Teaching Assistant](https://github.com/engrrabdulkhaliq001) | Context-aware Q&A over videos with timestamp answers | LangChain · FAISS · Groq · FastAPI · Docker |
-| 📄 [Resume Screening AI](https://github.com/engrrabdulkhaliq001) | NLP resume analysis with skill matching & bias detection | OpenAI Embeddings · FAISS · FastAPI · Streamlit |
-| 📊 [Student Performance Predictor](https://github.com/engrrabdulkhaliq001) | Predicts academic outcomes with SHAP explainability | XGBoost · Scikit-learn · SHAP · Streamlit |
-| 📑 [AI PDF Summarizer](https://github.com/engrrabdulkhaliq001) | Map-Reduce summarization for multi-document PDFs | LangChain · OpenAI GPT · Streamlit |
+| 🎓 [RAG Teaching Assistant](https://rage-based-ai-cleaned-7ccsipacoxfgzc3wzqrufd.streamlit.app/) | Context-aware Q&A over videos with timestamp answers | LangChain · FAISS · Groq · FastAPI · Docker |
+| 📄 [Resume Screening AI](https://resume-screening-ai-ct5hlbyrzyu78bf7gvrguc.streamlit.app/) | NLP resume analysis with skill matching & bias detection | OpenAI Embeddings · FAISS · FastAPI · Streamlit |
+| 📊 [Student Performance Predictor](https://student-perfomance-predictor.streamlit.app/) | Predicts academic outcomes with SHAP explainability | XGBoost · Scikit-learn · SHAP · Streamlit |
+| 📑 [AI PDF Summarizer](https://ai-pdf-summarizer-mgcsfq639zdlxr3yohmdc3.streamlit.app/) | Map-Reduce summarization for multi-document PDFs | LangChain · OpenAI GPT · Streamlit |
 
 > All projects have **live deployments** and public GitHub repos.
 
@@ -58,14 +60,18 @@ Tools           │ Git · GitHub · .env · Jupyter
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrrabdulkhaliq001&layout=compact&hide_border=true&title_color=1D9E75&theme=default" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=engrrabdulkhaliq001&theme=default&hide_border=true&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75" height="160"/>
+</p>
+
 ---
 
 ## 🎯 Currently Working On
 
-- 🧠 Improving ML mathematics & applied statistics  
-- 🤖 Building LangGraph & Vision-Language Model projects  
-- 🚀 Deploying scalable AI web applications  
-- 🎨 Enhancing frontend design for data products  
+- 🧠 Improving ML mathematics & applied statistics
+- 🤖 Building LangGraph & Vision-Language Model projects
+- 🚀 Deploying scalable AI web applications
+- 🎨 Enhancing frontend design for data products
 
 ---
 
